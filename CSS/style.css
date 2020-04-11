@@ -1,0 +1,89 @@
+nav {
+    background-color: lightgrey;
+    height: 50px;
+    text-align: left;
+    border: black
+    1pt;
+    border-style: solid;
+    margin: 0;
+    
+}
+
+.tab {
+    display: inline-block;
+    padding: 0;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    background-color: gray;
+   height: 50px;
+   width: 200px;
+   margin-right: -3px;
+}
+.sidebar {
+    width: 29%;
+    height: 650px;
+    background-color: green;
+    float: left;
+}
+.main {
+    width: 71%;
+    height: 650px;
+    background-color: lightgrey;
+    float: left;
+}
+
+#petTitle {
+    height: 250px;
+    background-color:lightgray;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    padding: 5%;
+    border: black
+    1pt;
+    border-style: solid;
+}
+
+#petBio {
+    height: 360px;
+    background-color: lightgrey;
+    margin-top: -37px;
+    text-align: left;
+    padding: 5%;
+    border: black
+    1pt;
+    border-style: solid;
+}
+
+#profilePic {
+    border: 2px;
+    border-color: white;
+    border-style: solid;
+    width: 200px;
+}
+#descriptionCat {
+    float: left;
+    padding: 5%;
+}
+
+.petDescription {
+    text-align: left;
+    margin: 5%;
+    padding: 3px;
+    border: black
+    1pt;
+    border-style: solid;
+}
+.gallery {
+    border: black
+    1pt;
+    border-style: solid;
+    text-align: center;
+}
+
+.galleryPic {
+    width: 250px;
+}
+
+
